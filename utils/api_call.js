@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const apiUrl = "https://movie-app-auth.onrender.com/";
+const apiUrl = "https://movie-app-backend-70y4.onrender.com";
 
 const apiCall = () => {
     axios.get(apiUrl)
